@@ -39,4 +39,4 @@ A secure, full-stack web-based portal developed for the **National Informatics C
 | **Database**   | MongoDB (Mongoose ODM)                      |
 | **Auth & Security** | JWT, bcrypt, OTP Email Verification, Google reCAPTCHA |
 | **Notifications** | React Hot Toast, Axios                   |
-| **Deployment** | (To be updated: Localhost, or hosted link)  |
+| **Deployment** | (To be updated)  |
