@@ -6,7 +6,7 @@ A secure, full-stack web-based portal developed for the **National Informatics C
 
 ---
 
-## 📌 Features
+##  Features
 
 ### 👨‍💼 Employee Portal
 - ✅ Secure login with CAPTCHA validation
