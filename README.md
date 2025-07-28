@@ -8,7 +8,7 @@ A secure, full-stack web-based portal developed for the **National Informatics C
 
 ##  Features
 
-### 👨‍💼 Employee Portal
+###  Employee Portal
 - ✅ Secure login with CAPTCHA validation
 - ✅ Forgot password with OTP-based recovery
 - ✅ IP application form submission with validation
