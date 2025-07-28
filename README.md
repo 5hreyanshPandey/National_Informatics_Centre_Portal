@@ -1,6 +1,6 @@
 # National_Informatics_Cenre_Portal
 
-# NIC  - IP Address & Resource Management System 🚀
+# NIC  - IP Address & Resource Management System 
 
 A secure, full-stack web-based portal developed for the **National Informatics Centre (NIC), Bilaspur** as part of a summer internship project. This system empowers NIC employees and administrators to manage departmental resources, IP allocations, employee registrations, and internal IT communications with ease.
 
