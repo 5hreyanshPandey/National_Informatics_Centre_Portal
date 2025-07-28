@@ -16,7 +16,7 @@ A secure, full-stack web-based portal developed for the **National Informatics C
 - ✅ View department colleagues
 - ✅ Raise complaints to admin
 
-### 🔐 Admin Portal
+###  Admin Portal
 - ✅ Role-based access with secure login
 - ✅ Add, update, delete employee records
 - ✅ Allocate and manage IP addresses
