@@ -30,7 +30,7 @@ A secure, full-stack web-based portal developed for the **National Informatics C
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category       | Technologies Used                          |
 |----------------|---------------------------------------------|
