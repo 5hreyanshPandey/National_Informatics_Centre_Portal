@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "axios": "^1.9.0",
+    "canvas": "^3.1.0",
+    "flutter": "^0.0.5",
+    "html": "^1.0.0",
+    "install": "^0.13.0",
+    "ipconfig": "^1.0.0",
+    "jspdf": "^3.0.1",
+    "jwt-decode": "^4.0.0",
+    "multer": "^2.0.0",
+    "nmap": "^1.1.0",
+    "nodemailer": "^7.0.3",
+    "npm": "^11.4.1",
+    "ping": "^0.4.4",
+    "python": "^0.0.4",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "react-toastify": "^11.0.5",
+    "y2j": "^1.0.4"
+  }
+}
