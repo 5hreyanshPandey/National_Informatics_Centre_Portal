@@ -9,24 +9,24 @@ A secure, full-stack web-based portal developed for the **National Informatics C
 ##  Features
 
 ###  Employee Portal
-- ✅ Secure login with CAPTCHA validation
-- ✅ Forgot password with OTP-based recovery
-- ✅ IP application form submission with validation
-- ✅ Antivirus and forms download section
-- ✅ View department colleagues
-- ✅ Raise complaints to admin
+-  Secure login with CAPTCHA validation
+-  Forgot password with OTP-based recovery
+-  IP application form submission with validation
+-  Antivirus and forms download section
+-  View department colleagues
+-  Raise complaints to admin
 
 ###  Admin Portal
-- ✅ Role-based access with secure login
-- ✅ Add, update, delete employee records
-- ✅ Allocate and manage IP addresses
-- ✅ View open/available IPs in the local network
-- ✅ View employee IPs with detailed tracking
-- ✅ Department-wise employee dashboard
-- ✅ Handle employee complaints and close with remarks
-- ✅ Track and manage IP ranges
-- ✅ Internal file/document download control
-- ✅ Full internal database manager (view/update/delete)
+-  Role-based access with secure login
+-  Add, update, delete employee records
+-  Allocate and manage IP addresses
+-  View open/available IPs in the local network
+-  View employee IPs with detailed tracking
+-  Department-wise employee dashboard
+-  Handle employee complaints and close with remarks
+-  Track and manage IP ranges
+-  Internal file/document download control
+-  Full internal database manager (view/update/delete)
 
 ---
 
